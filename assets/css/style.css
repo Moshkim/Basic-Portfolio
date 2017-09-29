@@ -1,0 +1,48 @@
+
+.headerSetting {
+
+	text-align: center;
+	background: black;
+	color: white;
+	margin-top: 10px;
+	margin-right: 50px;
+	margin-left: 50px;
+	margin-bottom: 0px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	font-size: 50px;
+
+}
+
+.bodySetting {
+	display: flex;
+	overflow: auto;
+	margin-right: 50px;
+	margin-left: 50px;
+	padding-top: 20px;
+	padding-right: 30px;
+	padding-left: 30px;
+	padding-bottom: 30px;
+	background: grey;
+
+}
+.bodyMiddle {
+	padding-top: 50px;
+	margin-left: 20px;
+	margin-right: 20px;
+
+}
+
+.bodyLeft {
+
+	float: left;
+	overflow: auto;
+	clear: left;
+}
+
+.bodyRight {
+	margin-left: 20px;
+	float: right;
+	overflow: auto;
+	clear: right;
+}
